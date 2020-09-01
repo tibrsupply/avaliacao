@@ -6,7 +6,7 @@
 - **Objetivo:** desenvolver as telas de um sistema de acordo com as imagens abaixo.
 - Imagem 1: telas do sistema.
 - Imagem 2: diagrama com as tabelas do banco de dados.
-- Criar um projeto com o seu nome.
+- Criar o projeto público no seu perfil do github.
 - Tecnologias: servidor com o PHP e banco de dados MySQL (dica: WampServer).
 - Banco de Dados: Nome: brsupply / Conexão: localhost | Usuário: root | Senha: root (ou sem senha)
 - Extra: criar tabelas e colunas que estão faltando no banco de dados.
